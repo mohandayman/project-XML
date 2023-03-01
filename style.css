@@ -1,0 +1,18 @@
+employee
+{
+	background-color: #FF0000;
+	color: green;
+
+}
+address{
+background-color:#FF0000;
+display:block;
+}
+body{
+width:500px;
+margin:auto;
+}
+address{
+display:flex;
+display:block;
+}

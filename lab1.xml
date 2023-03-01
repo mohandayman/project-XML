@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml-stylesheet type="text/css" href="style.css"?>-->
+<!--<!DOCTYPE employees SYSTEM "employee.dtd">-->
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/mohand/Desktop/XML%20files/schema.xsd">
+	<employee>
+		<name>mohand ayman</name>
+		<phones>
+			<phone type="mobile">0125488878</phone>
+			<phone type="home">87765</phone>
+		</phones>
+		<addresses>
+			<address>
+				<city>Alex</city>
+				<street>daramaly</street>
+				<region>bahary></region>
+				<buildingNo>120</buildingNo>
+			</address>
+		</addresses>
+		<email>mohandayman0127gmail.com</email>
+	</employee>
+	<employee>
+		<name>osama alaa</name>
+		<phones>
+			<phone type="mobile">897897</phone>
+			<phone type="home">87765</phone>
+		</phones>
+		<addresses>
+			<address>
+				<city>Alex</city>
+				<street>Elhoe]rreya</street>
+				<region>Sporting></region>
+				<buildingNo>103</buildingNo>
+			</address>
+		</addresses>
+		<email>mohandayman0127gmail.com</email>
+	</employee>
+	<employee>
+		<name>ahemd gamal</name>
+		<phones>
+			<phone type="sdfsdf">324234</phone>
+			
+
+		</phones>
+		<addresses>
+			<address>
+				<city></city>
+				<street></street>
+				<region></region>
+				<buildingNo>1</buildingNo>
+			</address>
+		</addresses>
+		<email></email>
+	</employee>
+</employees>
