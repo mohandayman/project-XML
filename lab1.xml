@@ -24,11 +24,13 @@
 		<name>osama alaa</name>
 		<phones>
 			<phone type="mobile">897897</phone>
-			<phone type="home">87765</phone>
+		
 		</phones>
 		<addresses>
 			<address>
 				<city>Alex</city>
+								
+
 				<street>Elhoe]rreya</street>
 				<region>Sporting></region>
 				<buildingNo>103</buildingNo>
@@ -36,21 +38,5 @@
 		</addresses>
 		<email>mohandayman0127gmail.com</email>
 	</employee>
-	<employee>
-		<name>ahemd gamal</name>
-		<phones>
-			<phone type="sdfsdf">324234</phone>
-			
-
-		</phones>
-		<addresses>
-			<address>
-				<city></city>
-				<street></street>
-				<region></region>
-				<buildingNo>1</buildingNo>
-			</address>
-		</addresses>
-		<email></email>
-	</employee>
+	
 </employees>
